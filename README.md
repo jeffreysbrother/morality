@@ -20,7 +20,7 @@ If this term serves as a method of emphasizing mere preferences (or perhaps cloa
 
 If we take this route, however, we'll need to start backpedalling very soon. Imagine that we discover excellent scientific (empirically and mathematically justified) reason to think that human (personal/economical/etc) and environmental well-being would increase drastically by eliminating our consumption of meat. Do we classify meat eaters as immoral NOW, or only after the theory is confirmed true decades or centuries later? What happens if that rigorous model of ours proves to be flawed? Maybe we stop eating meat and this results in a significant negative impact on some corner of our ecosystem. Should we say, "Well, we *thought* x was objectively moral...but we discovered that it actually wasn't"? Must we stave off the urge to defend our moral inclinations until sufficient testing has taken place? What a boring place this would be, indeed! In the end every man should have some clever way to express his closeness to God and overarching superiority. LOL.
 
-In addition to these silly issues with retroactive evaluations, it seems almost bonkers to look 95-year-old lung cancer patient in the face and say "Delores, your poor condition evidences the fact that it *was* immoral for you to smoke."
+In addition to these silly issues with retroactive evaluations, it seems almost bonkers to look a 95-year-old lung cancer patient in the face and say "Delores, your poor condition evidences the fact that it *was* immoral for you to smoke."
 
 ##"objective"? (yes, again)
 
@@ -28,7 +28,7 @@ We usually use the word to delineate statements we consider to hold true indepen
 
 According to a common way of thinking (a pretty accurate way, I presume), a thing such as a chair has an objective existence. An experience of pain, however, is subjective in the sense that the sensation *depends* on us---the pain does not persist when we are destroyed. The issue we're digging ourselves into is one that relies on the (alleged) classification of subjective actions (actions carried out by subjects) as objective, according to some rubric. We should not pretend that consensus would have even the slightest ability to confer "objectivity" onto judgments related to the quality of actions.
 
-Even perfect consensus is insufficient grounds for claiming that an act can be rightly considered "immoral".
+Even perfect consensus is insufficient grounds for claiming that an act can be rightly considered "immoral". Please use your imagination here, I cannot do all the work for you.
 
 ##non-consequentialist views of morality
 
