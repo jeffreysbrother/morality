@@ -20,6 +20,8 @@ If this term serves as a method of emphasizing mere preferences (or perhaps cloa
 
 If we take this route, however, we'll need to start backpedalling very soon. Perhaps it was discovered that we have very good scientific (empirically and mathematically justified) reason to think that human (personal/economical/etc) and environmental well-being would increase drastically by eliminating the consumption of meat. Do we classify meat eaters as immoral NOW, or only after the theory is confirmed true? What happens if that rigorous model was flawed? Perhaps we stop eating meat and doing so ends up having a significant negative impact on ecosystems. Should we say, "Well, we thought x was objectively moral...but we discovered that it actually wasn't"?
 
+In addition to these silly issues with retroactive evaluations, it seems almost bonkers to look 95-year-old lung cancer patient in the face and say "Delores, your poor condition evidences the fact that it *was* immoral for you to smoke."
+
 ##"objective"? (yes, again)
 
 We usually use the word to delineate statements we consider to hold true independent of attitudes versus ones that **rely** upon attitudes at a basic level. This is why our previous efforts to cast preferences or even outcomes as "objective" fail miserably. The train has already struck the fat man.
@@ -35,3 +37,5 @@ What's left? Divine command theory? Revelation? Fear of punishment? All of these
 Instead of trying to mend a useless religious concept, all we need to say is that some individuals like x, while some do not. Of course, some feel-good things might turn out to be bad choices. This is life. Good things happen and horrible things happen.
 
 If at this point you're squirming in your seat wondering how on earth we go about punishing people, I'd like you to go look in the mirror and examine yourself for a couple minutes. Hopefully, after some time you'll realize that you've gone and changed the subject yet again.
+
+Too many cigarettes is a BAD IDEA. An unjust war and premeditated murder are horrific, fear-inducing events ... most today would be inclined to classify only the former as "morally wrong". I fear that the motivations are slim: 1) religion or some other kind of dogma that impairs thinking (scientism, perhaps), 2) the unfortunate fact that a human-independent fiction might be the only way to control a society.
