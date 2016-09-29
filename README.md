@@ -24,7 +24,11 @@ In addition to these silly issues with retroactive evaluations, it seems almost 
 
 ##"objective"? (yes, again)
 
-We usually use the word to delineate statements we consider to hold true independent of attitudes versus ones that **rely** upon attitudes at a basic level. This is why our previous efforts to cast preferences or even outcomes as "objective" fail miserably. The train has already struck the fat man.
+We usually use the word to delineate statements we consider to hold true independent of attitudes versus ones that **rely** upon attitudes at a basic level. This is why our previous efforts to cast preferences or even outcomes as "objective" fail miserably.
+
+According to a common way of thinking (a pretty accurate way, I presume), a thing such as a chair has an objective existence. An experience of pain, however, is subjective in the sense that the sensation *depends* on us---the pain does not persist when we are destroyed. The issue we're digging ourselves into is one that relies on the (alleged) classification of subjective actions (actions carried out by subjects) as objective, according to some rubric. We should not pretend that consensus would have even the slightest ability to confer "objectivity" onto judgments related to the quality of actions.
+
+Even perfect consensus is insufficient grounds for claiming that an act can be rightly considered "immoral".
 
 ##non-consequentialist views of morality
 
