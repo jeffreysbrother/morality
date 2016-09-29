@@ -34,7 +34,9 @@ Even perfect consensus is insufficient grounds for claiming that an act can be r
 
 In my view, morality---if legitimate---must divorce itself from preference and utility. Why? Because these things are too easily parsed in terms that require no appeal to morality whatsoever; the concept is useless here.
 
-What's left? Divine command theory? Revelation? Fear of punishment? All of these theories suck REAL bad. Moral realism appears to attempt to circumvent the reality of fallibilism, the necessity of conceptual economy, and the importance of verification. Further, if the purportedly "objective" quality of a certain class of moral judgments is hoped to find its reality via science, then I think we must admit to be suffering from yet another serious issue: the trivialization of scientific inquiry. Far too often people praise science for superficial reasons and ignore to see the effort and error that plays a role in empirical discovery and the clever engineering of solutions. Science is an effort ... not a boring list of irrefutable facts.
+What's left? Divine command theory? Revelation? Fear of punishment in the afterlife? All of these theories are sufficiently stupid; they all fall short in terms of evidence, so we have no reason whatsoever to believe that any are accurate.
+
+Moral realism (articulated any way you'd like) appears to be fueled by an attempt to circumvent the reality of fallibilism, the necessity of conceptual economy, and the importance of verification. Of course, we shouldn't deny the role apologetics can have in motivating uneducated activism and proselytization.
 
 ##an alternative
 
