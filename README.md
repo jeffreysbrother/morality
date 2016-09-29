@@ -14,7 +14,7 @@ What would it be for some action to be objectively more beneficial than another?
 
 If 96% of a society regards action x as being disgusting and selfish, what would it mean for us to say that avoiding x is **objectively** more beneficial than indulging in x? If the individual is the focus, then the claim appears obviously false; some individuals enjoy rape and murder. If the community (or some other arbitrary group) is the focus, then the phrase "objectively better for society" appears to be nothing more than an emphatic way of expressing the fact that most people would have liked for x not to have happened.
 
-"Objective", therefore, cannot mean "everyone agrees". One reason is due to the fact that there is no such agreement. Anywhere. Perhaps in this domain (ethics), the term is useless. I'll discuss an additional reason fairly soon.
+"Objective", therefore, cannot mean 'everyone agrees'. One reason is due to the fact that there is no such agreement regarding "ideal" or "responsible" or "authentic" action. Anywhere. Perhaps in this domain (ethics), the term is useless. I'll discuss an additional reason fairly soon.
 
 If this term serves as a method of emphasizing mere preferences (or perhaps cloaking them, with hopes that they appear more heavy-duty), we might still have another option on our hands. Not just preferences can be violated. Maybe we ought to be talking about health ... or perhaps the progress of civilization! We might have disagreements regarding individual or group *approval* but maybe science can help us get past all of this embarrassing, subjective talk and eventually graduate to facts and ... well, really neat objective things.
 
