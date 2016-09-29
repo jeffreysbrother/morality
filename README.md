@@ -18,9 +18,19 @@ If 96% of a society regards action x as being disgusting and selfish, what would
 
 If this term serves as a method of emphasizing mere preferences (or perhaps cloaking them, with hopes that they appear more heavy-duty), we might still have another option on our hands. Not just preferences can be violated. Maybe we ought to be talking about health ... or perhaps the progress of civilization! We might have disagreements regarding individual or group *approval* but maybe science can help us get past all of this embarrassing, subjective talk and eventually graduate to facts and ... well, really neat objective things.
 
-If we take this route, however, we'll need to start backpedalling very soon. Perhaps it was discovered that we have very good scientific (empirically and mathematically justified) reason to think that human (personal/economical/etc) and environmental well-being would increase drastically by eliminating the consumption of meat. Do we classify meat eaters as immoral NOW, or only after the theory is confirmed true? What happens if that rigorous model was flawed? Perhaps we stop eating meat and doing so ends up having a significant negative impact on ecosystems. Should we say, "Well, we thought x was objectively moral...but we discovered that it actually wasn't"? 
+If we take this route, however, we'll need to start backpedalling very soon. Perhaps it was discovered that we have very good scientific (empirically and mathematically justified) reason to think that human (personal/economical/etc) and environmental well-being would increase drastically by eliminating the consumption of meat. Do we classify meat eaters as immoral NOW, or only after the theory is confirmed true? What happens if that rigorous model was flawed? Perhaps we stop eating meat and doing so ends up having a significant negative impact on ecosystems. Should we say, "Well, we thought x was objectively moral...but we discovered that it actually wasn't"?
 
-But what about non-consequentialist views of morality?
+##"objective"? (yes, again)
+
+We usually use the word to delineate statements we consider to hold true independent of attitudes versus ones that **rely** upon attitudes at a basic level. This is why our previous efforts to cast preferences or even outcomes as "objective" fail miserably. The train has already struck the fat man.
+
+##non-consequentialist views of morality
+
+
+
+why not just settle on preferences? actions? theories (attempts to predict)? why not settle with fallibilism? Why trivialize science?
+
+how are these objectively true statements or objectively beneficial lines of action verified?
 
 extra: and that our cogitations allow us to arrive at some line of action that is objectively better.
 
