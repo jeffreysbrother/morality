@@ -26,19 +26,12 @@ We usually use the word to delineate statements we consider to hold true indepen
 
 ##non-consequentialist views of morality
 
-In my view, morality---if legitimate---must divorce itself from preference and utility. Why? Because these things are too easily parsed in terms that make no appeal to morality whatsoever; the concept is useless here.
+In my view, morality---if legitimate---must divorce itself from preference and utility. Why? Because these things are too easily parsed in terms that require no appeal to morality whatsoever; the concept is useless here.
 
 What's left? Divine command theory? Revelation? Fear of punishment? All of these theories suck REAL bad. Moral realism appears to attempt to circumvent the reality of fallibilism, the necessity of conceptual economy, and the importance of verification. Further, if the purportedly "objective" quality of a certain class of moral judgments is hoped to find its reality via science, then I think we must admit to be suffering from yet another serious issue: the trivialization of scientific inquiry. Far too often people praise science for superficial reasons and ignore to see the effort and error that plays a role in empirical discovery and the clever engineering of solutions. Science is an effort ... not a boring list of irrefutable facts.
 
-why not just settle on preferences? actions? theories (attempts to predict)? why not settle with fallibilism? Why trivialize science?
+##an alternative
 
-how are these objectively true statements or objectively beneficial lines of action verified?
+Instead of trying to mend a useless religious concept (one that stems from sin on the one hand or law on the other), all we say is that some individuals like x, while some do not. Of course, some feel-good actions might turn out to be bad choices. This is life. Good things happen and horrible things happen.
 
-extra: and that our cogitations allow us to arrive at some line of action that is objectively better.
-
-yes there are better ways of acting (ways that would either benefit ourselves or the most people)
-
-
-
-differences
-  nothing violated except perhaps reason (unless it never came to mind)
+If at this point you're squirming in your seat wondering how on earth we go about punishing people, I'd like you to go look in the mirror and examine yourself for a couple minutes. Hopefully, after some time you'll realize that you've gone and changed the subject yet again.
