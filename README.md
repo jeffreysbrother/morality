@@ -32,6 +32,6 @@ What's left? Divine command theory? Revelation? Fear of punishment? All of these
 
 ##an alternative
 
-Instead of trying to mend a useless religious concept (one that stems from sin on the one hand or law on the other), all we say is that some individuals like x, while some do not. Of course, some feel-good actions might turn out to be bad choices. This is life. Good things happen and horrible things happen.
+Instead of trying to mend a useless religious concept, all we need to say is that some individuals like x, while some do not. Of course, some feel-good things might turn out to be bad choices. This is life. Good things happen and horrible things happen.
 
 If at this point you're squirming in your seat wondering how on earth we go about punishing people, I'd like you to go look in the mirror and examine yourself for a couple minutes. Hopefully, after some time you'll realize that you've gone and changed the subject yet again.
